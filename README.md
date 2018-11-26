@@ -66,3 +66,9 @@ Many things seem to be common sense, but it's all about clarity here. Over commu
 - The **location, date and venue** of the conference
 - Any other **confirmed speakers** so far
 - The **conference website**
+
+# Other great resources
+- Insights on the speaker point of view: [How to deliver a talk at a programming conference
+](https://www.hackingwithswift.com/articles/96/how-to-deliver-a-talk-at-a-programming-conference#step7)
+- Paul Hudson on [How to organize a great programming conference](https://www.hackingwithswift.com/articles/116/how-to-organize-a-great-programming-conference)
+- [The handbook used for the dotConferences](https://sylvinus.gitbooks.io/dotconferences-speaker-handbook/content/)
